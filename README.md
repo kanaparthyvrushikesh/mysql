@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/kanaparthyvrushikesh/mysql/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/kanaparthyvrushikesh/mysql/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/kanaparthyvrushikesh/mysql/tree/master/0596-classes-with-at-least-5-students) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kanaparthyvrushikesh/mysql/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1683-invalid-tweets](https://github.com/kanaparthyvrushikesh/mysql/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kanaparthyvrushikesh/mysql/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
