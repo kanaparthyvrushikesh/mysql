@@ -14,4 +14,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-daily-leads-and-partners](https://github.com/kanaparthyvrushikesh/mysql/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/kanaparthyvrushikesh/mysql/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kanaparthyvrushikesh/mysql/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/kanaparthyvrushikesh/mysql/tree/master/0561-array-partition) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/kanaparthyvrushikesh/mysql/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/kanaparthyvrushikesh/mysql/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/kanaparthyvrushikesh/mysql/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
