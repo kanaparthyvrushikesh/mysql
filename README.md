@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/kanaparthyvrushikesh/mysql/tree/master/0118-pascals-triangle) |
 | [0561-array-partition](https://github.com/kanaparthyvrushikesh/mysql/tree/master/0561-array-partition) |
 ## Greedy
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/kanaparthyvrushikesh/mysql/tree/master/0561-array-partition) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/kanaparthyvrushikesh/mysql/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
